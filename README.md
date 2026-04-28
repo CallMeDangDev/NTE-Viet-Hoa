@@ -19,7 +19,7 @@
 
 Vào tab [**Releases**](../../releases) và tải file mới nhất.
 
-Giải nén ra, bạn sẽ có:
+bạn sẽ có:
 ```
 netbios.dll
 game_vi.dat
