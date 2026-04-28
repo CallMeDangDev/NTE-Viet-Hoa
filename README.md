@@ -17,7 +17,7 @@
 
 ### Bước 1 — Tải bản phát hành
 
-Vào tab [**Releases**](../../releases) và tải file `.zip` mới nhất.
+Vào tab [**Releases**](../../releases) và tải file mới nhất.
 
 Giải nén ra, bạn sẽ có:
 ```
