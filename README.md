@@ -8,7 +8,7 @@
 
 ## Yêu cầu
 
-- Game **Neverness to Everness** (CN) đã cài đặt
+- Game **Neverness to Everness** (CN hoặc Global) đã cài đặt
 - Windows 10/11 64-bit
 
 ---
