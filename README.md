@@ -1,4 +1,4 @@
-# NTE Việt Hoá — Neverness to Everness
+# NTE Việt Hoá — Neverness to Everness 1.3
 
 > Bản Việt hoá không chính thức cho game **Neverness to Everness** (CN build).  
 
