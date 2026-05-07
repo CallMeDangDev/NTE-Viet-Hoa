@@ -2,13 +2,13 @@
   "assets": [
     {
       "name": "bgm.mp3",
-      "url": "https://raw.githubusercontent.com/CallMeDangDev/WuwaVH/refs/heads/main/Web/Audio/bgm.mp3",
-      "sha256": "a44b0614ec000aec4e97e2dc5cbe8cfc3623f577681db2a4edb23413507765b1"
+      "url": "https://github.com/CallMeDangDev/NTE-Viet-Hoa/raw/refs/heads/main/Web/Audio/bgm.mp3",
+      "sha256": "8E5DC799F28713885DFDF18EBC927650F7F07521FB6520F7C28F4D345CB72747"
     },
     {
       "name": "bg-video.mp4",
-      "url": "https://raw.githubusercontent.com/CallMeDangDev/WuwaVH/refs/heads/main/Web/Video/bg-video.mp4",
-      "sha256": "766c506f057fb8b7143dbb34ddd5fe7de92227c3dde4a5f8b7dc2c63a58847df"
+      "url": "https://github.com/CallMeDangDev/NTE-Viet-Hoa/raw/refs/heads/main/Web/Video/bg-video.mp4",
+      "sha256": "077B220A5058DA32D1166495E3ADE3EF3B80F35F4D797547FEC01731806637F1"
     }
   ]
 }
